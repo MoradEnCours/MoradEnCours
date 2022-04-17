@@ -5,6 +5,7 @@ Technical Objectives (To be added):
 
 Personal Objectives (To be added):
 - [ ] Improve my ability to coordinate personal tasks
+- [ ] Saturate my Github activity and develop a more consistent usage of the platform
 
 Sidehobby Hustle (To be added):
 - [ ] Draft
