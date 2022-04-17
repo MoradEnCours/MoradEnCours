@@ -4,7 +4,7 @@ Technical Objectives (To be added):
 - [ ] Draft
 
 Personal Objectives (To be added):
-- [ ] Draft
+- [ ] Improve my ability to coordinate personal tasks
 
 Sidehobby Hustle (To be added):
 - [ ] Draft
